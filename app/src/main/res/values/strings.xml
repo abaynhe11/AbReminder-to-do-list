@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AbReminder-to-list</string>
+    <string name="task">Task</string>
+    <string name="create_tasks">Create Tasks</string>
+    <string name="title">Title</string>
+    <string name="data">data</string>
+    <string name="timer">time</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_task">New Task</string>
+    <string name="to_edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="empty_text">Ops! It is empty. Type your task here</string>
+</resources>
